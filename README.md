@@ -1,7 +1,7 @@
 <h1>Microsoft Azure Lab</h1>
 
 <h2>Description</h2>
-Configured VM and firewall for remote access with Microsoft Azure. Used a custom PowerShell script to extract Windows Event Viewer metadata for geolocation using a third-party API. Established a Log Analytics workspace in Azure for custom geographic logs. Configured fields for Azure Sentinel geo-mapping. Implemented a Sentinel workbook, displaying global RDP brute force attacks on a world map. Enhanced security and threat visualization for the purpose of increasing overall security posture.
+Configured VM and firewall for remote access within Microsoft Azure. Used a custom PowerShell script to extract Windows Event Viewer metadata for geolocation using a third-party API. Established a Log Analytics workspace in Azure for custom geographic logs. Configured fields for Azure Sentinel geo-mapping. Implemented a Sentinel workbook, displaying global RDP brute force attacks on a world map. Enhanced security and threat visualization for the purpose of increasing overall security posture.
 <br />
 
 
